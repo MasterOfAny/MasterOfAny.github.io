@@ -34,8 +34,8 @@ body {
 }
 
 .nav__row {
-    padding-top: 33px;
-    padding-bottom: 32px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     border-bottom: 1px solid #828282;
 }
 
@@ -44,6 +44,7 @@ body {
 
 .nav__list {
     display: flex;
+    margin: 0;
     padding: 0;
     justify-content: space-between;
     align-items: center;
@@ -71,7 +72,7 @@ body {
 }
 
 .about-me {
-    padding-top: 120px;
+    padding-top: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -263,8 +264,8 @@ body {
 }
 
 .about-me__contacts {
-    padding-top: 114px;
-    padding-bottom: 114px;
+    padding-top: 50px;
+    padding-bottom: 20px;
     text-align: center;
 }
 
@@ -280,24 +281,43 @@ body {
     font-size: 18px;
     line-height: 1.2;
 }
+
 .contacts__btn-message {
     text-decoration: none;
     display: inline-block;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 1;
     text-align: center;
     /*  padding: 13px 29px; */
-    padding: 0.42307em 1.26923em 0.538461em;
+    padding: 0.638461em 1.26923em;
     background-color: #070707;
     color: #ffffff;
     border-radius: 50px;
+    border: 1px solid #070707;
+    cursor: pointer;
+    transition: background-color 0.4s ease-in, color 0.2s ease-in;
+}
+
+.contacts__btn-message:hover {
+    background-color: #ffffff;
+    color: #070707;
+    border: 1px solid #070707;
 }
 
 .contacts__work-media {
     display: flex;
     justify-content: center;
-    margin-top: 85px;
+    margin-top: 45px;
     margin-bottom: 45px;
+}
+
+.contacts__work-media-icon {
+    transition: background-color 0.2s linear;
+}
+
+.contacts__work-media-icon:hover {
+    background-color: rgba(233, 202, 202, 0.466);
+    border-radius: 38%;
 }
 
 .contacts__work-media-icon + .contacts__work-media-icon {
@@ -318,7 +338,57 @@ body {
     }
 }
 
+@media (min-width: 401px) and (max-width: 710px) {
+    .skills__cards {
+        justify-content: center;
+        column-gap: 20vw;
+    }
+}
+
+@media (min-width: 551px) and (max-width: 650px) {
+    .nav__item {
+        font-size: 14px;
+    }
+
+    .eng-list {
+        font-size: 14px;
+    }
+
+    .my-essay {
+        margin-top: 80px;
+        font-size: 16px;
+    }
+
+    .my-name {
+        font-size: 16px;
+    }
+}
+
 @media (max-width: 550px) {
+    .contacts__btn-message {
+        /*  padding: 13px 29px; */
+        padding: 0.538461em 4.26923em;
+    }
+
+    .contacts__work-media-icon + .contacts__work-media-icon {
+        margin-left: 30px;
+    }
+
+    .about-me__header,
+    .skills__header,
+    .portfolio__header,
+    .contacts__header {
+        font-size: 26px;
+    }
+
+    .text,
+    .skills__text,
+    .portfolio__link,
+    .contacts__text,
+    .contacts__btn-message {
+        font-size: 16px;
+    }
+
     .nav {
         display: none;
     }
@@ -335,6 +405,7 @@ body {
 
     .my-essay {
         margin-top: 23px;
+        font-size: 14px;
     }
 
     .my-photo {
@@ -344,9 +415,5 @@ body {
     .my-name {
         margin-top: 0;
         font-size: 17px;
-    }
-
-    .my-essay {
-        font-size: 14px;
     }
 }
