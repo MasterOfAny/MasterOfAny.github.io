@@ -11,9 +11,9 @@
 <body>
     <div class="gg"></div>
     <script>
-        fetch("http://numbersapi.com/5/math")
+        fetch("https://kitsu.io/api/edge")
             .then(function (data) {
-                return data.text();
+                return data.json();
             })
             .then(function (data) {
                 const add = document.querySelector('.gg')
