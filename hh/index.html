@@ -11,13 +11,13 @@
 <body>
     <div class="gg"></div>
     <script>
-        fetch("https://kitsu.io/api/edge")
+        fetch("https://kitsu.io/api/edge/anime?filter[categories]=adventure")
             .then(function (data) {
                 return data.json();
             })
             .then(function (data) {
                 const add = document.querySelector('.gg')
-                add.innerText = data;
+                add.innerText = data.data[0];
             })
 
     </script>
