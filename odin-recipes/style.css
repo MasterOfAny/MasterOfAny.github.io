@@ -1,0 +1,189 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(248, 225, 196);
+    /*font-family: "Kanit", sans-serif;*/
+    font-family: "Lobster", cursive;
+}
+a {
+    text-decoration: none;
+}
+.wrapper {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.header {
+    margin-top: 35px;
+    padding: 3px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+.recipes {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 480px));
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    justify-content: center;
+}
+.recipe__card {
+    padding: 10px;
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    background-color: #fff;
+}
+.recipe__link {
+    color: rgb(53, 53, 53);
+    transition: 0.2s all ease;
+}
+.recipe__link:hover {
+    color: rgb(227, 60, 60);
+}
+.recipe__link:hover .recipe__img {
+    transform: scale(1.08);
+}
+.recipe__img {
+    display: block;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    transition: 0.3s all ease;
+}
+.recipe__header {
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    border-top: 2px solid black;
+}
+
+.page {
+    margin: 0 auto;
+    margin-top: 20px;
+    max-width: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Kanit", sans-serif;
+}
+.recipe-page__header {
+    padding: 3px;
+    text-align: center;
+    font-family: "Lobster", cursive;
+    font-size: 26px;
+    font-weight: normal;
+}
+.recipe__description {
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+}
+.description__text {
+    font-family: "Kanit", sans-serif;
+    padding: 5px;
+}
+.description__img {
+    display: block;
+    width: 250px;
+    height: 166px;
+    border-radius: 5px;
+}
+.recipe__details {
+    margin-top: 20px;
+    display: flex;
+}
+.details__time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    border: 1px solid gray;
+    font-family: "Kanit", sans-serif;
+    padding: 3px;
+}
+.details__time + .details__time {
+    border-left: none;
+}
+.time {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.instructions {
+    padding: 5px 0;
+}
+.instructions__header,
+.ingridients__header {
+    display: block;
+    margin: 10px 0;
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+.instructions__list {
+    list-style-type: none;
+    padding: 5px 35px;
+}
+.instruction__item {
+    position: relative;
+    padding-left: 10px;
+}
+.instruction__item + .instruction__item {
+    margin-top: 20px;
+}
+.instruction__item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: -24px;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/shuriken_icon.svg);
+}
+.ingridients {
+}
+.ingridients__list {
+    padding: 5px 0;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.ingridients__item {
+    position: relative;
+    padding-left: 10px;
+}
+
+.ingridients__item {
+    margin-left: 40px;
+}
+.ingridients__item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -2px;
+    left: -24px;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/rice.png);
+}
+
+@media (max-width: 510px) {
+    .recipe__description {
+        padding-top: 10px;
+        flex-direction: column-reverse;
+        row-gap: 10px;
+    }
+}
+@media (max-width: 320px) {
+    .details__time {
+        font-size: 14px;
+    }
+}
