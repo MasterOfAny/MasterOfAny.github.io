@@ -238,7 +238,7 @@ body {
     }
     .play-area {
         margin: 0 auto;
-        margin-top: 30px;
+        margin-top: 0;
         min-width: 100px;
         max-width: 480px;
         flex-direction: row;
