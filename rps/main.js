@@ -10,7 +10,11 @@ const scoreFontSize = window.getComputedStyle(scoreUI[0], null).getPropertyValue
 const weaponsPlayer = document.querySelectorAll('.item-card');
 const weaponsBot = document.querySelectorAll('.item-card-bot');
 const modalBlock = document.querySelector('.modal-block');
+const body = document.querySelector('body');
 
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    body.style.height = window.innerHeight;
+}
 
 let end = false;
 
