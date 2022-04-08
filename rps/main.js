@@ -16,6 +16,10 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     body.style.height = window.innerHeight + 'px';
     console.log(window.innerHeight)
 }
+else {
+    body.style.height = window.innerHeight + 'px';
+    console.log(window.innerHeight)
+}
 
 let end = false;
 
