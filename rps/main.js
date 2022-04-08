@@ -13,7 +13,8 @@ const modalBlock = document.querySelector('.modal-block');
 const body = document.querySelector('body');
 
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-    body.style.height = window.innerHeight;
+    body.style.height = window.innerHeight + 'px';
+    console.log(window.innerHeight)
 }
 
 let end = false;
