@@ -2,47 +2,47 @@
     "data": [
         {
             "name": "Основная торговая площадка",
-            "image": "./images/sliders/work-directions-slider/s1.jpg",
+            "image": "../../images/sliders/work-directions-slider/s1.jpg",
             "text": "<p>Наше направление отвечает за разработку инструментов, которыми активно пользуются наши покупатели и продавцы. Сюда входит абсолютно все, что нужно для того, чтобы продавец смог предложить товар или услугу, а покупатель смог совершить заказ.</p><p>После совершения заказа площадка прибегает к услугам складской и логистической инфраструктуры, чтобы совершить в физическом мире передачу товара из рук в руки. </p><p>В итоговую площадку входят: <ul><li>сайт;</li><li>поиск и рекомендации; инструменты продавца, собранные в единый кабинет управления;</li><li>маркетинговые инструменты; </li><li>  инструментарий для взаимодействия торговой площадки с логистическими и складскими операторами; </li><li>инструментарий для колл центров;</li><li> инструментарий для третьих лиц на маркетплейсе, которые не являются продавцами или покупателями; </li><li>анализ цен и ассортимента конкурентов; и многое другое. </li><\/ul></p>",
             "video": "https://www.youtube.com/embed/vkDJ49zhQkg",
             "technologies": [
                 {
-                    "image": "/company-jobs/IT/images/sliders/technologies-slider/docker.jpg"
+                    "image": "../../images/sliders/technologies-slider/docker.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/docker.jpg"
+                    "image": "../../images/sliders/technologies-slider/docker.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/docker.jpg"
+                    "image": "./../images/sliders/technologies-slider/docker.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/docker.jpg"
+                    "image": "../../images/sliders/technologies-slider/docker.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/docker.jpg"
+                    "image": "../../images/sliders/technologies-slider/docker.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/docker.jpg"
+                    "image": "../../images/sliders/technologies-slider/docker.jpg"
                 }
             ],
             "vacanies": [
                 {
                     "name": "PHP программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "SQL программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "C++ программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
@@ -51,47 +51,47 @@
         },
         {
             "name": "ERP системы и комплекс продуктов 1C",
-            "image": "./images/sliders/work-directions-slider/s2.jpg",
+            "image": "../../images/sliders/work-directions-slider/s2.jpg",
             "text": "<p>22 Наше направление отвечает за разработку инструментов, которыми активно пользуются наши покупатели и продавцы. Сюда входит абсолютно все, что нужно для того, чтобы продавец смог предложить товар или услугу, а покупатель смог совершить заказ.</p><p>После совершения заказа площадка прибегает к услугам складской и логистической инфраструктуры, чтобы совершить в физическом мире передачу товара из рук в руки. </p><p>В итоговую площадку входят: <ul><li>сайт;</li><li>поиск и рекомендации; инструменты продавца, собранные в единый кабинет управления;</li><li>маркетинговые инструменты; </li><li>  инструментарий для взаимодействия торговой площадки с логистическими и складскими операторами; </li><li>инструментарий для колл центров;</li><li> инструментарий для третьих лиц на маркетплейсе, которые не являются продавцами или покупателями; </li><li>анализ цен и ассортимента конкурентов; и многое другое. </li><\/ul></p>",
             "video": "https://www.youtube.com/embed/vkDJ49zhQkg",
             "technologies": [
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/nuxt.jpg"
+                    "image": "../../images/sliders/technologies-slider/nuxt.jpg"
                 }
             ],
             "vacanies": [
                 {
                     "name": "PHP программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "SQL программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "C++ программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
@@ -100,47 +100,47 @@
         },
         {
             "name": "Машинное обучение и нейронные сети",
-            "image": "./images/sliders/work-directions-slider/s3.jpg",
+            "image": "../../images/sliders/work-directions-slider/s3.jpg",
             "text": "<p>33 Наше направление отвечает за разработку инструментов, которыми активно пользуются наши покупатели и продавцы. Сюда входит абсолютно все, что нужно для того, чтобы продавец смог предложить товар или услугу, а покупатель смог совершить заказ.</p><p>После совершения заказа площадка прибегает к услугам складской и логистической инфраструктуры, чтобы совершить в физическом мире передачу товара из рук в руки. </p><p>В итоговую площадку входят: <ul><li>сайт;</li><li>поиск и рекомендации; инструменты продавца, собранные в единый кабинет управления;</li><li>маркетинговые инструменты; </li><li>  инструментарий для взаимодействия торговой площадки с логистическими и складскими операторами; </li><li>инструментарий для колл центров;</li><li> инструментарий для третьих лиц на маркетплейсе, которые не являются продавцами или покупателями; </li><li>анализ цен и ассортимента конкурентов; и многое другое. </li><\/ul></p>",
             "video": "https://www.youtube.com/embed/vkDJ49zhQkg",
             "technologies": [
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/mysql.jpg"
+                    "image": "../../images/sliders/technologies-slider/mysql.jpg"
                 }
             ],
             "vacanies": [
                 {
                     "name": "PHP программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "SQL программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "C++ программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
@@ -149,47 +149,47 @@
         },
         {
             "name": "Единый интеграционные сервис",
-            "image": "./images/sliders/work-directions-slider/s4.jpg",
+            "image": "../../images/sliders/work-directions-slider/s4.jpg",
             "text": "<p>44 Наше направление отвечает за разработку инструментов, которыми активно пользуются наши покупатели и продавцы. Сюда входит абсолютно все, что нужно для того, чтобы продавец смог предложить товар или услугу, а покупатель смог совершить заказ.</p><p>После совершения заказа площадка прибегает к услугам складской и логистической инфраструктуры, чтобы совершить в физическом мире передачу товара из рук в руки. </p><p>В итоговую площадку входят: <ul><li>сайт;</li><li>поиск и рекомендации; инструменты продавца, собранные в единый кабинет управления;</li><li>маркетинговые инструменты; </li><li>  инструментарий для взаимодействия торговой площадки с логистическими и складскими операторами; </li><li>инструментарий для колл центров;</li><li> инструментарий для третьих лиц на маркетплейсе, которые не являются продавцами или покупателями; </li><li>анализ цен и ассортимента конкурентов; и многое другое. </li><\/ul></p>",
             "video": "https://www.youtube.com/embed/vkDJ49zhQkg",
             "technologies": [
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/php.jpg"
+                    "image": "../../images/sliders/technologies-slider/php.jpg"
                 }
             ],
             "vacanies": [
                 {
                     "name": "PHP программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "SQL программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "C++ программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
@@ -198,47 +198,47 @@
         },
         {
             "name": "Бизнес-процессы и автоматизация",
-            "image": "./images/sliders/work-directions-slider/s5.jpg",
+            "image": "../../images/sliders/work-directions-slider/s5.jpg",
             "text": "<p>44 Наше направление отвечает за разработку инструментов, которыми активно пользуются наши покупатели и продавцы. Сюда входит абсолютно все, что нужно для того, чтобы продавец смог предложить товар или услугу, а покупатель смог совершить заказ.</p><p>После совершения заказа площадка прибегает к услугам складской и логистической инфраструктуры, чтобы совершить в физическом мире передачу товара из рук в руки. </p><p>В итоговую площадку входят: <ul><li>сайт;</li><li>поиск и рекомендации; инструменты продавца, собранные в единый кабинет управления;</li><li>маркетинговые инструменты; </li><li>  инструментарий для взаимодействия торговой площадки с логистическими и складскими операторами; </li><li>инструментарий для колл центров;</li><li> инструментарий для третьих лиц на маркетплейсе, которые не являются продавцами или покупателями; </li><li>анализ цен и ассортимента конкурентов; и многое другое. </li><\/ul></p>",
             "video": "https://www.youtube.com/embed/vkDJ49zhQkg",
             "technologies": [
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 },
                 {
-                    "image": "./images/sliders/technologies-slider/symfony.jpg"
+                    "image": "../../images/sliders/technologies-slider/symfony.jpg"
                 }
             ],
             "vacanies": [
                 {
                     "name": "PHP программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "SQL программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
                 },
                 {
                     "name": "C++ программист (Symfony / Laravel)",
-                    "image": "./images/vacancies/php.jpg",
+                    "image": "../../images/vacancies/php.jpg",
                     "salary": "от 100 000 до 120 000 руб. на руки",
                     "exp": "3-5 лет",
                     "text": "<ul><li>Управление вверенной категорией товаров, разработка стратегии развития направления;</li><li>Расширение номенклатуры, проработка новинок, анализ конкурентной среды, рынка сбыта</li> </ul>"
